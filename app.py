@@ -12,7 +12,7 @@ st.title("📊 Retail Sales Analysis Dashboard")
 # -------------------------
 # LOAD DATA
 # -------------------------
-df = pd.read_csv("superstore.csv")
+df = pd.read_csv("Superstore.csv")
 
 # -------------------------
 # DATA CLEANING + FEATURE ENGINEERING
